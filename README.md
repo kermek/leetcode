@@ -11,3 +11,5 @@
 [144.   Binary Tree Preorder Traversal](src/binarytree/traverse/preorder144)
 
 [145.   Binary Tree Postorder Traversal](src/binarytree/traverse/postorder145)
+
+[104.   Maximum Depth of Binary Tree](src/binarytree/traverse/maxdepth104)
