@@ -26,7 +26,7 @@ public class Solution {
         }
         ListNode tail;
         if (head.next.next != null) {
-             tail = swapPairs(head.next.next);
+            tail = swapPairs(head.next.next);
         } else {
             tail = null;
         }

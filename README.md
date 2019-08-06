@@ -22,6 +22,8 @@
 
 [24.    Swap Nodes in Pairs](src/recursion/principle/swapnodes24)
 
+[118.   Pascal's Triangle](src/recursion/principle/pascalstriangle118)
+
 ## Arrays ##
 
 [189.   Rotate Array](src/arrays/rotate189)
