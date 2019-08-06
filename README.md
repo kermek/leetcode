@@ -18,7 +18,9 @@
 
 ### Principle of Recursion ###
 
-[344.   Reverse String](src/recusrion/principle/reversestring344)
+[344.   Reverse String](src/recursion/principle/reversestring344)
+
+[24.    Swap Nodes in Pairs](src/recursion/principle/swapnodes24)
 
 ## Arrays ##
 
