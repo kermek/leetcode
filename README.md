@@ -24,7 +24,9 @@
 
 [118.   Pascal's Triangle](src/recursion/principle/pascalstriangle118)
 
-[119. Pascal's Triangle II](src/recursion/principle/pascalstriangle119)
+[119.   Pascal's Triangle II](src/recursion/principle/pascalstriangle119)
+
+[206.   Reverse Linked List](src/recursion/principle/reverselinkedlist206)
 
 ## Arrays ##
 
