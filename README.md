@@ -24,6 +24,8 @@
 
 [118.   Pascal's Triangle](src/recursion/principle/pascalstriangle118)
 
+[119. Pascal's Triangle II](src/recursion/principle/pascalstriangle119)
+
 ## Arrays ##
 
 [189.   Rotate Array](src/arrays/rotate189)
