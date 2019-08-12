@@ -28,7 +28,9 @@
 
 [206.   Reverse Linked List](src/recursion/principle/reverselinkedlist206)
 
-[509.   Fibonacci Number](src/recursion.memoization.fibonaccinumber501)
+[509.   Fibonacci Number](src/recursion/memoization/fibonaccinumber501)
+
+[70.    Climbing Stairs](src/recursion/memoization/climbingstairs70)
 
 ## Arrays ##
 
